@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="jlpvisits_backdrop.svg"
+   inkscape:export-filename="/home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/jlpvisits_backdrop.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.5"
+       y="-0.5"
+       width="2"
+       height="2"
+       filterUnits="objectBoundingBox"
+       id="filter-1-6">
+      <feOffset
+         dx="2"
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset11-5" />
+      <feGaussianBlur
+         stdDeviation="2"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur13-5" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix15-0" />
+      <feMerge
+         id="feMerge17-6">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode19-2" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode21-6" />
+      </feMerge>
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter-1"
+       filterUnits="objectBoundingBox"
+       height="2"
+       width="2"
+       y="-0.5"
+       x="-0.5">
+      <feOffset
+         id="feOffset11"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="2" />
+      <feGaussianBlur
+         id="feGaussianBlur13"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1"
+         stdDeviation="2" />
+      <feColorMatrix
+         id="feColorMatrix15"
+         result="shadowMatrixOuter1"
+         type="matrix"
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" />
+      <feMerge
+         id="feMerge17">
+        <feMergeNode
+           id="feMergeNode19"
+           in="shadowMatrixOuter1" />
+        <feMergeNode
+           id="feMergeNode21"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5319">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path5321"
+         sodipodi:cx="1108.6187"
+         sodipodi:cy="219.31523"
+         sodipodi:rx="100.35419"
+         sodipodi:ry="105.07674"
+         d="m 1208.9728,219.31523 a 100.35419,105.07674 0 1 1 -200.7083,0 100.35419,105.07674 0 1 1 200.7083,0 z"
+         transform="matrix(0.99647063,0,0,0.95168544,-94.705928,-43.719079)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5323">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path5325"
+         sodipodi:cx="1108.6187"
+         sodipodi:cy="219.31523"
+         sodipodi:rx="100.35419"
+         sodipodi:ry="105.07674"
+         d="m 1208.9728,219.31523 a 100.35419,105.07674 0 1 1 -200.7083,0 100.35419,105.07674 0 1 1 200.7083,0 z"
+         transform="matrix(0.99647063,0,0,0.95168544,-94.705928,206.28092)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5327">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path5329"
+         sodipodi:cx="1108.6187"
+         sodipodi:cy="219.31523"
+         sodipodi:rx="100.35419"
+         sodipodi:ry="105.07674"
+         d="m 1208.9728,219.31523 a 100.35419,105.07674 0 1 1 -200.7083,0 100.35419,105.07674 0 1 1 200.7083,0 z"
+         transform="matrix(0.99647063,0,0,0.95168544,-94.705928,456.28092)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5331">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path5333"
+         sodipodi:cx="1108.6187"
+         sodipodi:cy="219.31523"
+         sodipodi:rx="100.35419"
+         sodipodi:ry="105.07674"
+         d="m 1208.9728,219.31523 a 100.35419,105.07674 0 1 1 -200.7083,0 100.35419,105.07674 0 1 1 200.7083,0 z"
+         transform="matrix(0.99647063,0,0,0.95168544,-94.705928,706.28092)" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46585"
+     inkscape:cx="945.64783"
+     inkscape:cy="593.41899"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637817)">
+    <image
+       y="-27.637817"
+       x="299.99988"
+       id="image3885"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/businessman-fashion-suit-jacket.jpg"
+       height="1080"
+       width="1620.0001" />
+    <path
+       style="opacity:0.7;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 299.99988,-27.637817 c 540.00004,0 1080.00012,0 1620.00012,0 0,359.999997 0,719.999997 0,1080.000017 -540,0 -1080.00008,0 -1620.00012,0 0,-360.00002 0,-720.00002 0,-1080.000017 z"
+       id="rect3888"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1426.2102"
+       y="225.21841"
+       id="text3326"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-27.637817)"><tspan
+         sodipodi:role="line"
+         id="tspan3328"
+         x="1426.2102"
+         y="225.21841" /><tspan
+         sodipodi:role="line"
+         id="tspan3330"
+         x="1426.2102"
+         y="275.21841" /><tspan
+         sodipodi:role="line"
+         x="1426.2102"
+         y="325.21841"
+         id="tspan3334" /><tspan
+         sodipodi:role="line"
+         x="1426.2102"
+         y="375.21841"
+         id="tspan3332" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-27.637817)"><flowRegion
+         id="flowRegion3781"><rect
+           id="rect3783"
+           width="221.25714"
+           height="148.65715"
+           x="1327.5428"
+           y="986.65717" /></flowRegion><flowPara
+         id="flowPara3785" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="fg">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 0,-2.5e-5 510,0 c 0,0 300,130.000035 300,540.000025 0,409.99999 -300,540 -300,540 l -510,0 z"
+       id="rect3200-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczccc" />
+    <image
+       y="185.67715"
+       x="105"
+       id="image3143"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/EBS_logo.png"
+       height="288.64569"
+       width="500" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1151.3867"
+       y="150.00003"
+       id="text3146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3148"
+         x="1151.3867"
+         y="150.00003"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen">Tommy Herdiansyah</tspan><tspan
+         sodipodi:role="line"
+         x="1151.3867"
+         y="204.6694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3174">Co-Founder of Code Margonda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;font-family:Sans"
+       x="18.24"
+       y="47.959999"
+       id="text3196"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3198"
+         x="18.24"
+         y="47.959999"
+         style="font-size:40px;fill:#e53935;fill-opacity:1;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0'">#JLPVisits</tspan></text>
+    <image
+       y="65.000031"
+       x="910"
+       id="image5121"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/tommy.jpg"
+       height="200"
+       width="200"
+       mask="url(#mask5319)" />
+    <image
+       y="565.00006"
+       x="910"
+       id="image5059"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/asyraf.jpg"
+       height="200"
+       width="200"
+       mask="url(#mask5327)" />
+    <image
+       y="315.00003"
+       x="910"
+       id="image5250"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/wicak.jpg"
+       height="200"
+       width="200"
+       mask="url(#mask5323)" />
+    <image
+       y="815.00006"
+       x="910"
+       id="image5312"
+       xlink:href="file:///home/agnium/all/repo/jlpcommunity/jlp-brand/events/JLPVisits_ESQ_Programming-Business/backdrop/assets/william.jpg"
+       height="200"
+       width="200"
+       mask="url(#mask5331)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1151.0377"
+       y="381.68701"
+       id="text3146-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1151.0377"
+         y="381.68701"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3156-0">Wicak Hidayat</tspan><tspan
+         sodipodi:role="line"
+         x="1151.0377"
+         y="436.35638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3160-8">Editor for KompasTekno and</tspan><tspan
+         sodipodi:role="line"
+         x="1151.0377"
+         y="486.35638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3174-9">Vice Managing Editor for Nextren</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1157.537"
+       y="657.16992"
+       id="text3146-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1157.537"
+         y="657.16992"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3164-6">Asyraf Duyshart</tspan><tspan
+         sodipodi:role="line"
+         x="1157.537"
+         y="711.83929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3174-1">Co-Founder / Design Lead at Persona</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1157.7065"
+       y="908.10638"
+       id="text3146-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1157.7065"
+         y="908.10638"
+         id="tspan3154-6"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen">William Eka</tspan><tspan
+         sodipodi:role="line"
+         x="1157.7065"
+         y="962.77576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+         id="tspan3174-91">Associate Director at Skystar Capital</tspan></text>
+    <path
+       style="fill:#e53935;fill-opacity:1;stroke:none"
+       d="M 0,-1.675e-5 0,1080 l 1920,0 0,-1080.00001675 -1920,0 z m 10,9.99999995 1900,0 L 1910,1070 10,1070 10,9.9999832 z"
+       id="rect3200"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4885"
+       transform="translate(-9.706072,-40.81108)">
+      <g
+         transform="matrix(0.36087535,0,0,0.36087535,90.353996,449.49883)"
+         id="g3809">
+        <g
+           id="g3080"
+           transform="matrix(0.37795421,0,0,0.37795421,52.912607,478.3828)">
+          <g
+             style="display:inline"
+             transform="translate(0,200)"
+             inkscape:label="bg"
+             id="layer2" />
+          <g
+             transform="translate(0,200)"
+             style="display:inline"
+             inkscape:label="base"
+             id="layer1-1">
+            <g
+               transform="matrix(9.99,0,0,10,-2791.5785,-7200.0002)"
+               id="g3357"
+               style="display:inline">
+              <path
+                 id="rect4149"
+                 d="m 303.16836,706.61036 c -0.25897,-0.004 -0.44768,0.28523 -0.58219,0.88639 -0.77817,3.04642 -3.0159,6.22946 -5.09924,8.8064 -2.08333,2.57695 -4.84381,5.16855 -2.29037,9.96128 1.79188,2.8658 4.42744,3.85685 6.63919,4.12521 -0.58049,-0.39219 -1.09455,-0.85399 -1.43223,-1.38798 -1.344,-2.12531 -0.76832,-4.26146 -0.76832,-4.26146 0,0 1.65847,3.6074 4.17086,4.69584 0.8585,0.37193 1.54597,0.60651 2.12996,0.74133 0,0 8.29529,-2.58405 5.74722,-10.06687 -0.26201,-0.60412 -0.58135,-1.19435 -0.96564,-1.68458 -0.65455,-0.83497 -1.21256,-1.30474 -1.62983,-1.56904 -0.0988,0.57951 -0.23784,1.16244 -0.43334,1.68268 -0.76409,2.03331 -2.19533,2.16314 -2.19533,2.16314 0,0 1.22168,-0.14498 0.96952,-3.96713 -0.17286,-2.6202 -1.33525,-6.06276 -2.3046,-7.74178 -0.89711,-1.55389 -1.52405,-2.37644 -1.95566,-2.38343 z"
+                 style="fill:#e53935;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+                 inkscape:connector-curvature="0" />
+              <path
+                 sodipodi:nodetypes="ccssccssc"
+                 inkscape:connector-curvature="0"
+                 id="path4194"
+                 style="font-size:84.03361511px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;display:inline;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0 Heavy'"
+                 d="m 312.20314,733.38967 -18.06723,0 0,43.44543 c 0,2.10084 -1.59664,2.94118 -4.95798,2.94118 l -3.94958,0 -1.93278,11.42857 c 2.85715,1.5126 9.83194,2.18487 13.52942,2.18487 9.4958,0 15.37815,-4.28571 15.37815,-11.84874 z" />
+              <path
+                 sodipodi:nodetypes="ccssccssc"
+                 inkscape:connector-curvature="0"
+                 id="path4208"
+                 style="font-size:84.03361511px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;display:inline;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0 Heavy'"
+                 d="m 338.43844,733.38967 -18.2353,0 -1e-5,45.96642 c 0,7.81512 5.37816,13.19328 13.78152,13.19328 9.4958,0 19.66386,0 28.31933,-1.17648 l -0.84034,-13.61344 -19.4958,0 c -2.18487,0 -3.52941,-1.26051 -3.52941,-3.02521 z" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4210"
+                 style="font-size:84.03361511px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;display:inline;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0 Heavy'"
+                 d="m 367.14772,792.21323 18.2353,0 0,-20 c 2.85714,0.33613 5.88235,0.5042 8.82353,0.5042 15.88235,0 21.5126,-4.28571 21.5126,-19.57983 0,-15.46219 -5.63025,-19.7479 -24.03361,-19.7479 -11.59664,0 -16.80673,0.084 -24.53782,0.84034 l 0,57.98319 z m 18.2353,-32.35294 0,-13.61345 5.88235,0 c 4.95798,0 6.21849,1.34454 6.21849,6.89076 0,5.37815 -1.26051,6.72269 -6.21849,6.72269 l -5.88235,0 z" />
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:320px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;font-family:Sans"
+           x="615.24054"
+           y="827.51312"
+           id="text3805"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3807"
+             x="615.24054"
+             y="827.51312"
+             style="font-size:320px;font-weight:bold;fill:#e53935;fill-opacity:1;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0'">Visits</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4875"
+         y="799.9043"
+         x="365.36038"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;fill:#e53935;fill-opacity:1"
+           id="tspan4879"
+           y="799.9043"
+           x="365.36038"
+           sodipodi:role="line">Technology Highly</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#e53935;fill-opacity:1"
+           id="tspan4883"
+           y="849.9043"
+           x="365.36038"
+           sodipodi:role="line">Affects Business</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e53935;fill-opacity:1;stroke:none;font-family:Sans"
+       x="16.880001"
+       y="1051.76"
+       id="text3196-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3198-0"
+         x="16.880001"
+         y="1051.76"
+         style="font-size:40px;fill:#e53935;fill-opacity:1;font-family:'Exo 2.0';-inkscape-font-specification:'Exo 2.0'">http://jlp.community</tspan></text>
+  </g>
+</svg>
